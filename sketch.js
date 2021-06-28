@@ -22,10 +22,10 @@ function draw() {
 function red_bg(){
   r=255
   g=0
-  background=(r,g,b)
+  background(r,g,b)
 }
 function green_bg(){
   r=0
   g=255
-  background=(r,g,b)
+  background(r,g,b)
 }
